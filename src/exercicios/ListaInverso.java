@@ -1,4 +1,5 @@
 package exercicios;
+
 import java.util.Scanner;
 
 class Elemento {
